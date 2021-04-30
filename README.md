@@ -10,3 +10,4 @@
 # Definicion Swagger (swagger.yaml)
 # Script BD "SAMPLE_BD"
 # Código fuente.
+INFO.log (Logs de ejecion)
