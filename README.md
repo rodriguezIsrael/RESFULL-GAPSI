@@ -6,7 +6,7 @@
 # Swagger 2.0
 
 # Directorio del proyecto.
-# Resultados Ejecucion.pdf (Muestra como levantar la aplicación)
+# Muestra Ejecucion.pdf (Muestra como levantar la aplicación)
 # Definicion Swagger (swagger.yaml)
 # Script BD "SAMPLE_BD"
 # Código fuente.
